@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> MY DOCUMENT </title>
+</head>
+<body>
+<h1> document1 </h1>
+<p> html commands </p>
+<a href="https://www.w3schools.com/whatis/"> This is the link web development </a>
+<img src="teddy.jpg" atl="teddybears.com">
