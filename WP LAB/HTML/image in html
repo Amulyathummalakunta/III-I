@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> MY DOCUMENT </title>
+</head>
+<body>
+<h1> document1 </h1>
+<h2> cute teddy bear </h2>
+<p> I Like Teddy Bears </p>
+<p> html commands </p>
+<a href="https://www.w3schools.com/whatis/"> my teddy bear </a>
+<img src="teddy.jpg" atl="teddybears.com">
